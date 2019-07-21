@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/ExampleWeb">
+  <Resource auth="Container" driverClassName="org.firebirdsql.jdbc.FBDriver" name="jdbc/Example" password="masterkey" type="javax.sql.DataSource" url="jdbc:firebirdsql:ultraserver/3050:D:\\ftp\\clientes\\bancos\\gestao_calcadosparana.fdb?encoding=ISO8859_1" username="SYSDBA"/>
+</Context>
